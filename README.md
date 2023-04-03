@@ -7,7 +7,7 @@ O **Sorteador de Números** é uma aplicação simples em HTML e JavaScript que 
 
 Para utilizar o **Sorteador de Números**, basta seguir os passos abaixo:
 
-1.  Acesse a página do Conversor de Texto em [https://exemplo.com/conversor-de-texto](https://exemplo.com/conversor-de-texto).
+1.  Acesse a página do Conversor de Texto em [https://luizhanauer.github.io/Random-Number-Generator/](https://luizhanauer.github.io/Random-Number-Generator/).
 2.  Insira o número inicial e final do intervalo em que deseja sortear os números.
 3.  Insira a quantidade de números que deseja sortear. Lembre-se de que a quantidade não pode ser maior que o intervalo dos números.
 4.  Clique no botão "Sortear".
