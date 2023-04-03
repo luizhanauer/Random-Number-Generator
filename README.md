@@ -21,6 +21,7 @@ Se desejar, você pode instalar o **Sorteador de Números** em seu computador lo
 ```git clone https://github.com/seu-usuario/sorteador-de-numeros.git```
 3.  Navegue até o diretório do projeto.
 4.  Abra o arquivo `index.html` em um navegador para iniciar o aplicativo.
+5.  Siga as instruções acima para utilizar o aplicativo.
 
 Tecnologias utilizadas
 ----------------------
